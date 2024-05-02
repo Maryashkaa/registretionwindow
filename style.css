@@ -1,0 +1,38 @@
+
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css";
+
+
+body{
+    background-image: url(ЭКСПОРТИРУЙ\ МЕНЯ\ \(2\).png);
+    background-color: #2148c0;
+    height: 100vh;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    
+}
+
+
+.box{
+    width: 500px;
+}
+
+
+.lala{
+    display: flex;
+   justify-content: end;
+   margin: 20px;
+}
+
